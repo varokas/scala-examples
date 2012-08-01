@@ -9,5 +9,6 @@ Installing Scala on OS X
 3. brew install sbt
 
 Resources
++ [Scala Documentation Website](http://docs.scala-lang.org/)
 + [Scala for Java Refugees](http://www.codecommit.com/blog/scala/roundup-scala-for-java-refugees)
 + [Programming Scala Book](http://ofps.oreilly.com/titles/9780596155957/)
